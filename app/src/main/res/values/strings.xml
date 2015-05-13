@@ -6,4 +6,5 @@
     <string name="title_activity_game_state">GameStateActivity</string>
     <string name="title_activity_instructions">InstructionsActivity</string>
     <string name="title_activity_level__select">Level_Select</string>
+    <string name="title_activity_options">OptionsActivity</string>
 </resources>
